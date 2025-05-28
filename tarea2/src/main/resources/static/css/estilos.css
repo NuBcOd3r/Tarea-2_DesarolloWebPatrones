@@ -1,0 +1,55 @@
+/*index.html*/
+
+#header{
+    top: 0;
+    left: 0;
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    display: flex;
+    position: fixed;
+}
+
+.logo{
+    padding: 10px;
+}
+
+#barra{
+    top: 0;
+    left: 20%;
+    text-align: center;
+    font-size: 20px;
+    padding-left: 250px;
+    padding-top: 20px;
+}
+
+#barra a {
+    color:white;
+    margin: 0 50px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+a:visited{
+    font-size: 30px;
+}
+
+a:hover{
+    background-color: blue;
+    color: white;
+    transition: 0.7s;
+}
+
+a:active {
+    background-color: purple;
+    color:white;
+}
+
+#contenido{
+    top: 10%;
+    left: 0%;
+    height: 75%;
+    width: 100%;
+    position: fixed;
+}
