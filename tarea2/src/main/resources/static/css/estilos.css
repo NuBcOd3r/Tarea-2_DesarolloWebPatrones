@@ -18,3 +18,11 @@
 #btnBuscar{
     margin-right: 30px;
 }
+
+.bg-image{
+    background-size: cover;
+    background-position: center;
+    height: calc(100vh - 12.4vh);
+}
+
+
