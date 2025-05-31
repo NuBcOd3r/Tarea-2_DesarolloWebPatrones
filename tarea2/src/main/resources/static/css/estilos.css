@@ -22,7 +22,11 @@
 .bg-image{
     background-size: cover;
     background-position: center;
-    height: calc(100vh - 12.4vh);
+    
+}
+
+.texto{
+    font-size: 15px;
 }
 
 
